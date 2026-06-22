@@ -14,36 +14,28 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: 초보 개발자 생존기
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 개발과 학습을 기록하는 공간
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
-
+description: C언어, 파이썬, 자료구조, 알고리즘, AI 프로젝트를 정리하는 기술 블로그입니다.
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://LeeHoWon98.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: LeeHoWon98 # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: 이호원
+  email: ledled45@naver.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://github.com/LeeHoWon98 # change to your GitHub homepage
+
 
 # Site Verification Settings
 webmaster_verifications:
