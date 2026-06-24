@@ -1,6 +1,6 @@
 ---
-title: "파이썬 리스트(List) 정리: 기본 기능부터 Rotation(회전)까지 알아보자"
-date: 2026-06-25
+title: "파이썬 리스트(List) 정리: 기본 기능부터 Rotation(회전)까지"
+date: 2026-06-25 01:00:00 +0900
 categories: [Python, Data Structure]
 tags: [python, list, rotation, deque, algorithm]
 image:
