@@ -1,6 +1,6 @@
 ---
 title: "C언어 기본 자료형 정리: int, char, float, double"
-date: 2026-06-25 21:00:00 +0900
+date: 2026-06-25 01:00:00 +0900
 categories: [C Language, Basic]
 tags: [c, data-type, int, char, float, double]
 ---
