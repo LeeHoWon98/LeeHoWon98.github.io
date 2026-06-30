@@ -4,7 +4,6 @@ title: "[AI Day 1] PyTorch 시작하기 - Tensor란 무엇일까?"
 date: 2026-06-30
 categories: [AI, PyTorch]
 tags: [AI, DeepLearning, PyTorch, Tensor]
-image: /assets/images/pytorch-day1.png
 ---
 
 # PyTorch 시작하기 - Tensor란 무엇일까?
