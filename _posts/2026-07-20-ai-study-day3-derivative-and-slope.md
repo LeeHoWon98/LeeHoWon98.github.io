@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI 공부 Day 3 - 기울기와 미분의 시작, 순간 기울기는 어떻게 구할까?"
-date: 2026-07-21
+date: 2026-07-20
 categories: [AI, Mathematics]
 tags: [AI, 딥러닝, 미분, 기울기, 변화량, 극한, Python, PyTorch]
 ---
